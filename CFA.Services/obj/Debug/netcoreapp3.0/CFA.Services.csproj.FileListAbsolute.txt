@@ -1,0 +1,8 @@
+C:\Code\CFA\CFA.Services\obj\Debug\netcoreapp3.0\CFA.Services.csprojAssemblyReference.cache
+C:\Code\CFA\CFA.Services\obj\Debug\netcoreapp3.0\CFA.Services.AssemblyInfoInputs.cache
+C:\Code\CFA\CFA.Services\obj\Debug\netcoreapp3.0\CFA.Services.AssemblyInfo.cs
+C:\Code\CFA\CFA.Services\bin\Debug\netcoreapp3.0\CFA.Services.deps.json
+C:\Code\CFA\CFA.Services\bin\Debug\netcoreapp3.0\CFA.Services.dll
+C:\Code\CFA\CFA.Services\bin\Debug\netcoreapp3.0\CFA.Services.pdb
+C:\Code\CFA\CFA.Services\obj\Debug\netcoreapp3.0\CFA.Services.dll
+C:\Code\CFA\CFA.Services\obj\Debug\netcoreapp3.0\CFA.Services.pdb
